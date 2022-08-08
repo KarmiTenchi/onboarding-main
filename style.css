@@ -12,6 +12,10 @@
   box-sizing: border-box;
 }
 
+@font-face {
+    font-family: 'Romana BT';
+    src: url(ROMANAB.TTF);
+}
 
 .onboarding-container .top-div {
     display: flex;
